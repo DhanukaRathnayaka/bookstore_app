@@ -1,16 +1,17 @@
-# bookstore_app
+# Bookstore App
 
-A new Flutter project.
+## Project Overview
+The **Bookstore App** is a mobile application developed as a part of the **Midterm Project** for the **Mobile Application Development** course.
 
-## Getting Started
+## Developer Information
+- **Developer:** Dhanuka Rathnayaka
+- **Registration Number:** 22UG1-0828
+- **Course:** Mobile Application Development
+- **Institution:** SLTC Research University
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Framework:** Flutter 3.27.3 (Stable)
+- **Language:** Dart 3.6.1
+- **Platform:** Android & iOS
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developed by Dhanuka Rathnayaka (Reg No: 22UG1-0828) for Mobile Application Development Midterm Project.
